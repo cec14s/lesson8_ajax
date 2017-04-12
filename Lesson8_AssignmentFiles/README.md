@@ -14,8 +14,7 @@ The following project was to crate an application called a "Seminole Movie Conne
 Data to make the application work. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cec14s.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. To Parse JSON data from an HTTP response message to be able to display data from that source.
